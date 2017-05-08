@@ -1,2 +1,4 @@
 this is my first git file;
-Git is free software
+Git is free software;
+Git is third line;
+stage track 
